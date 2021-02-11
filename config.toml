@@ -5,6 +5,10 @@ title = "Sawmill"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
+name = "blog"
+parent = "View on Github"
+weight = 1
+[[menu.main]]
 name = "View on Github"
 url = "https://github.com/dwalkr/sawmill"
 weight = 1
